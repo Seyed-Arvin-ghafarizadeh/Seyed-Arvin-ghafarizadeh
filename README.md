@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Seyed-Arvin-ghafarizadeh
+- 👋 Hi, I’m Seyed-Arvin-ghafarizadeh
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ML and Deep Learning
 - 💞️ I’m looking to collaborate on ...
