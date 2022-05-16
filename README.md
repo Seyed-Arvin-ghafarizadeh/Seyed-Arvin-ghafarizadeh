@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seyed-Arvin-ghafarizadeh
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ML and Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ML and robotic projects
 - 📫 How to reach me arvinghafarizadeh[at]gmail[dot]com
 
 <!---
